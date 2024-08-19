@@ -1,0 +1,1 @@
+{"teams":[{"name":"asdfasdf","player1":"asdfasdf","player2":"asdfasdf","phone":"asfdasdf","status":"confirmed"}],"waitingList":[],"bookings":[{"name":"Heros","player1":"Ahmed","player2":"Anwar","phone":"234098203948234","status":"confirmed"}]}

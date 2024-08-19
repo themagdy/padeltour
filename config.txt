@@ -1,0 +1,2 @@
+max_teams=8
+max_waiting_list=10
